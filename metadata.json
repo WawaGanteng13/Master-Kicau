@@ -1,0 +1,8 @@
+{
+  "name": "Kicau AI",
+  "description": "Platform digital berbasis kecerdasan buatan untuk analisis performa burung kicau dan manajemen perawatan dengan teknologi serverless dan multimodal Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
